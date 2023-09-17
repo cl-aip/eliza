@@ -1,0 +1,6 @@
+# Eliza
+## What is Eliza?
+Eliza, or Doctor, program was originally developed by Joseph Weizenbaum at MIT in the period 1964 -1966, so that Eliza imitates Rogerian phsychiatic therapist. Weizenbaum was greatly shocked when he saw his secretary who was trapped by having a conversation with Eliza and then she asked him to go out of the room as she faced to a real human therapist, even though she knew that Eliza was just a computer program made by Wiezenbaum through seeing Weizenbaum had tackled to make it in several months. His experience of such ridiculous and desperate human-behaviors by ordinary people on machines that imitate the manner of human-like actions drove him to re-think the relation between machines and humans, and he published a book entitiled "_Computer Power and Human Reason_" (1976). 
+
+## What is this program?
+Peter Norvig published the Common Lisp version of Eliza in "_Pradigms of Artificial Intelligence Programming_" (PAIP for short) (1992). However, it has no package, and there is no usage of modules and features of Common Lisp, and neither ASDF nor other modern functionalities for systematizing lisp programs. Actually, this program is a modernized version of eliza program of PAIP, where several functionalities of Common Lisp which did not appear in PAIP are used here.
